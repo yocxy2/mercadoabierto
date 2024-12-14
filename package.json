@@ -33,7 +33,7 @@
     "semantic-ui-react": "^2.0.1"
   },
   "devDependencies": {
-    "prop-types": "^15.7.2" ,
-    "@opennextjs/netlify": "^5.9.0"
+    "prop-types": "^15.7.2" 
+    
   }
 }
