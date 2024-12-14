@@ -1,4 +1,9 @@
+project-root/
+  config.js
+  firebase/
+    index.js
+  requests/
+    cart.js
+    media.js
+    login.js
 node_modules
-.next
-config.js
-.vercel

@@ -1,0 +1,18 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.js",
+  "/about": "pages/about.js",
+  "/": "pages/index.js",
+  "/login": "pages/login.js",
+  "/signup": "pages/signup.js",
+  "/submitProduct": "pages/submitProduct.js",
+  "/update/profile": "pages/update/profile.js",
+  "/cart/[userId]": "pages/cart/[userId].js",
+  "/product/[productId]": "pages/product/[productId].js",
+  "/users/[...params]": "pages/users/[...params].js",
+  "/category/[categoryName]": "pages/category/[categoryName].js",
+  "/search/[searchProductText]": "pages/search/[searchProductText].js",
+  "/update/product": "pages/update/product.js"
+}
