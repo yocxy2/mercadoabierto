@@ -33,7 +33,9 @@
     "semantic-ui-react": "^2.0.1"
   },
   "devDependencies": {
-    "prop-types": "^15.7.2" 
+    "prop-types": "^15.7.2" ,
+   "@netlify/plugin-nextjs": "^5.9.0"
+
     
   }
 }
